@@ -1,0 +1,1 @@
+python main.py -adversial None -loss_strategy None  -use_label_weights True -loss_weight_strategy uw -loss_function focal_loss
